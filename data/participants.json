@@ -1136,5 +1136,16 @@
 		   "twitter" : "https://twitter.com/mivishvajeet",
 		   "referral" : ""
 		}
+		{
+			"name": "Piyush Gurjar",
+			"imageurl": "assets/img/participants/Piyush.jpg",
+			"about": "Still a learner",
+			"college": "IIIT Allahabad",
+			"facebook": "https://www.facebook.com/piyush.gurjar.92505",
+			"github": "https://github.com/Piyush4064",
+			"website": "",
+			"twitter": "",
+			"referral": "Geek Heaven"
+		},
 	]
 }
